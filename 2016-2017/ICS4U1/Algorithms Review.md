@@ -1,5 +1,5 @@
 # ICS4U - Algorithms
-- - - -
+
 ## Sorting Algorithms
 
 ### Insertion Sort
