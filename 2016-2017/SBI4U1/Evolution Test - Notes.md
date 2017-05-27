@@ -35,11 +35,17 @@ Different success in reproduction of different phenotypes resulting from interac
  **Survival and Reproduction are NOT random**
 
 His theory was based on 5 assumptions:
+
 	1. Many more in a population are born than can survive
+
 	2. Variation among individuals - not identical 
+
 	3. Individuals with certain characteristics have a better chance of survival than others
+
 	4. Some characteristics are heritable
+
 	5.  Long periods of time (slow change)
+
 
 Blending theory of inheritance was seen as a weakness to Darwin’s theory, but 6 years later Mendel would explain this
 
