@@ -73,6 +73,7 @@ Reproductive Isolating Mechanisms - Behavioural, Structural, and Biochemical tra
 ### Modes of Speciation
 
 Allopatric Speciation - different geography
+
 Sympatric Speciation - same geography
 
 Hardy-Weinberg Frequencies not maintained => evolution occurring
