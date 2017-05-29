@@ -162,5 +162,5 @@ public static int binarySearch(int[] arr, int value, int lo, int hi){
 ```
 
 * Complexity O(log n)
-* Only works on SORTED arrays. Takes the midpoint of the array and checks if the value is less than or greater than the midpoint, then either increments or  decrements the midpoint value until the value is found. It is called “Binary Search” because the array is split into 2 (thus, binary).
+* Only works on SORTED arrays and MONOTONIC FUNCTIONS . Takes the midpoint of the array and checks if the value is less than or greater than the midpoint, then either increments or  decrements the midpoint value until the value is found. It is called “Binary Search” because the array is split into 2 (thus, binary).
 
