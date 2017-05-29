@@ -13,7 +13,7 @@
 *  policy of **increasing** the monetary supply and **lowering** interest rates. It shifts Aggregate Demand rightward due to an increase in investment and consumption of durable goods
 * used to eradicate a recessionary gap
 
-##Contractionary Monetary Policy
+## Contractionary Monetary Policy
 * policy of **decreasing** the monetary supply and **increasing** interest rates, it shifts Aggregate Demand **leftward** due to a initial decrease in the consumption of durable goods
 
 * it is used to eradicate a **inflationary** gap
