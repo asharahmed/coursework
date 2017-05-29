@@ -1,6 +1,6 @@
-#Monetary Policy
+# Monetary Policy
 
-##Functions of the Bank of Canada
+## Functions of the Bank of Canada
 * The Bank of Canada has 4 main functions:
 
 	1.  Manages money supply
