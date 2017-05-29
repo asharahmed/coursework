@@ -21,7 +21,7 @@
 ## Open Market Operations
 * Open market operations are a tool the Bank of Canada uses to conduct monetary policy
 	-  Sale of bonds lowers a CPA member's deposit liabilities and reserves, which causes a magnified decreased in the monetary supply using the money multiplier
-	- a purchase of bonds raises a CPA member's deposit liabilities and reserves which causes a magnifed increase in the money supply using the money multiplier
+	- a purchase of bonds raises a CPA member's deposit liabilities and reserves which causes a magnified increase in the money supply using the money multiplier
 	
 ## Changes in the Target Overnight Rate
 
