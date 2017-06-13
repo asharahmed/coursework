@@ -25,5 +25,6 @@
 	
 ## Changes in the Target Overnight Rate
 
-* Changing the bank rate id a tool the Bank of Canada uses to signify its monetary policy intentions
+* Changing the bank rate is a tool the Bank of Canada uses to signify its monetary policy intentions
 	- when the bank of Canada changes its target band for the overnight rate it also automatically adjusts the bank rate since this rate is at the top end of the target band	
+	-  meme name 

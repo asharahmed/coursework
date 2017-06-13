@@ -42,8 +42,7 @@ public static double selectionSort(int[] arr, boolean visualized){
         return watch.elapsedTime();
     }
 ```
-
-* Complexity: O(n^2) because nested for-loops
+* Complexity:  because nested for-loops
 * On each pass, the unsorted element with the smallest (or largest) value is moved to its proper position in the array.
 
 ### Merge Sort
